@@ -1,1 +1,1 @@
-# satilik_ev_ilanlarindan_mahalle_-zellikleri_analizi-VERI-ANALIZI-
+# Mahalle bazlı satılık ev ilanlarından mahalle özellikleri analizi
